@@ -20,7 +20,7 @@
 <p align="left">
 </p>
 
-<h3 align=Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -34,6 +34,9 @@
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="40" height="40"/>
   </a>
 </p>
 
