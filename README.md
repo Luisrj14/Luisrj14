@@ -3,14 +3,13 @@
 - I have a master's degree in Materials, Nanophysics, and Quantum Technology by the University of Oslo. The topic of my thesis was point defects for quantum technology aplication.
 - I'm trying to get more involved in open-source projects, mainly in the Python community, to learn, improve, and help others along the way.
 - I'm intersting in
-  -  Quantum technologies
-  - Computational physics 
+  - Quantum technologies
   - Quantum chemistry 
   - Semiconductor physics 
-  - Machine learning 
+  - Many-body quantum mechanics
+  - Computational physics 
+  - Machine learning and IA
   - Sofware development
-  - Machine learning and  IA
-  - Many-body quantum mechanics 
 - I’m open to working on any kind of research project in my field of interest, from both theoretical and experimental perspectives.
 - Reach me in my personal email luisjimenezarteta@gmail.com
 
