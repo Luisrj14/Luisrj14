@@ -1,4 +1,4 @@
-<h3>Hi there 👋, I'm Luis R Jimenez A.</h3>
+<h3>Hi there 👋, I'm Luis R. Jimenez A.</h3>
 
 - I have a master’s degree in Materials, Nanophysics, and Quantum Technology from the University of Oslo, with a focus on computational physics. My thesis focused on point defects for quantum technology applications, using computational tools.
 - I'm trying to get more involved in open-source projects, mainly in the Python community, to learn, improve, and help others along the way.
